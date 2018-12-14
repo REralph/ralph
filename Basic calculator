@@ -1,14 +1,14 @@
-def multiply(num1, num2):
-    return num1 * num2
+def multiply(num31, num42):
+    return num31 * num2
 
-def addition(num1, num2):
-    return num1 + num2
+def addition(num31, num24):
+    return num31 + num42
 
-def divide(num1, num2):
-    return num1 / num2
+def divide(num31, num42):
+    return num31 / num42
 
-def minus(num1, num2):
-    return num1 - num2
+def minus(num31, num42):
+    return num31 - num42
 
 
 print("choice the operation you would like-\n" \
